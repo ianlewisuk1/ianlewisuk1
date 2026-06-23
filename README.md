@@ -2,7 +2,7 @@
 
 I'm a full-stack software engineer with experience building production-style applications across JavaScript, TypeScript, Ruby, Python, React, Node.js, and SQL. 
 
-When I'm not at the computer, I bake, lift weights, and occasionally convince myself that growing vegetables in buckets during a North Carolina summer is a good idea (it is not).
+When I'm not at the computer, I bake, throw darts (sometimes in the correct direction), and occasionally convince myself that growing vegetables in buckets during a North Carolina summer is a good idea (it is not).
 
 Most recently I was part of the team that developed [Trickl](https://trickl-app.github.io/), a self-hosted observability platform for small engineering teams that helps reduce high-cardinality metrics, preserve useful telemetry, and operate a metrics pipeline on AWS.
 
