@@ -1,31 +1,28 @@
-Hi there 👋, I'm Ian!
+# Hi there, I'm Ian Lewis
 
-I'm a full-stack software engineer based in Raleigh, NC, with experience building production style applications across TypeScript, JavaScript, Ruby, Python, React, Node.js, and SQL.
+I'm a full-stack software engineer with experience building production-style applications across JavaScript, TypeScript, Ruby, Python, React, Node.js, and SQL. 
 
-Recently, I built Trickl, a self-hosted observability platform for small engineering teams. Trickl helps reduce high-cardinality metrics through intelligent label analysis, recommendation workflows, and AWS-based telemetry infrastructure.
+When I'm not at the computer, I bake, lift weights, and occasionally convince myself that growing vegetables in buckets during a North Carolina summer is a good idea (it is not).
 
-Before software engineering, I worked in education and leadership, where I developed a strong foundation in communication, project management, and breaking complex problems into clear, actionable steps.
+Most recently I was part of the team that developed [Trickl](https://trickl-app.github.io/), a self-hosted observability platform for small engineering teams that helps reduce high-cardinality metrics, preserve useful telemetry, and operate a metrics pipeline on AWS.
 
-🚀 Featured Project
-Trickl Observability Platform
+Before Trickl, I worked in education and school leadership, where I developed a strong foundation in communication, mentoring, operations, and managing complex work across teams.
 
-I built Trickl, a self-managed metrics observability platform deployed on AWS. It combines OpenTelemetry, Vector, VictoriaMetrics, Grafana, PostgreSQL, S3, and ECS to collect, route, store, and analyze metrics data.
+## Programming Stack
 
-Trickl identifies high-cardinality labels, estimates potential series reduction, and presents recommendations that users can accept before changes are applied to the metrics pipeline.
+| Category | Technologies |
+|---|---|
+| **Programming Languages** | JavaScript, TypeScript, Ruby, Python, SQL, HTML/CSS |
+| **Web Development** | React, Vite, Node.js, Express, Sinatra |
+| **Databases** | PostgreSQL, MongoDB |
+| **Cloud Services** | AWS, DigitalOcean |
+| **Containerization** | Docker |
+| **Observability** | OpenTelemetry, VictoriaMetrics, Grafana, Vector, vmagent |
+| **APIs and Testing** | REST APIs, Jest, Minitest |
+| **Other** | Git, Linux, CI/CD, RAG, LLM APIs, embeddings |
 
-🛠 Programming Stack
-Category	Technologies
-Languages	JavaScript, TypeScript, Ruby, Python, SQL, HTML/CSS
-Web Development	React, Node.js, Express, Sinatra
-Databases	PostgreSQL, MongoDB
-Cloud & Infrastructure	AWS, DigitalOcean, CDK, ECS, EC2, S3, RDS, CloudWatch
-Observability	OpenTelemetry, VictoriaMetrics, Grafana, Vector, vmagent
-Tools	Git, Linux, Docker, CI/CD, VS Code
-AI & Data	RAG, LLM APIs, embeddings, prompt engineering
-📫 How to reach me
-LinkedIn
-Resume
-Portfolio
-⚡ Fun fact
+## Reach out and connect with me!
 
-Outside of coding, I bake, I exercise, and occasionally convince myself that container gardening in North Carolina heat is a good idea (you already know how this ends). 
+[LinkedIn](https://www.linkedin.com/in/ianlewis314/)  
+[Trickl](https://trickl-app.github.io/)
+
